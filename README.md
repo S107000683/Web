@@ -26,7 +26,7 @@ A10:2017 - Insufficient Logging & Monitoring   不足的日誌紀錄和監控
 +ACK - Acknowledgements  致謝  
 
 https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf (英文)  
-https://www.owasp.org/images/d/dc/OWASP_Top_10_2017_%E4%B8%AD%E6%96%87%E7%89%88v1.3.pdf(簡中)  
+https://www.owasp.org/images/d/dc/OWASP_Top_10_2017_%E4%B8%AD%E6%96%87%E7%89%88v1.3.pdf  (簡中)  
 
 # A1:2017-Injection
 漏洞說明:  
